@@ -168,7 +168,6 @@ body {
 /* Error Message */
 .error-message {
     background: #fee2e2;
-    border-left: 4px solid #ef4444;
     color: #991b1b;
     padding: 1rem;
     border-radius: 8px;
